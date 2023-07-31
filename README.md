@@ -1,7 +1,7 @@
 ## 👋
 - 🇯🇵Japanese
 - ⛏️A Modded Minecrafter
-- 📖Student
+- 📖A Student
 
 ## 💻
 - ❤️Like: JavaScript, C  
