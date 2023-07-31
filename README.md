@@ -1,4 +1,10 @@
-### Hi there 👋
+- 🇯🇵Japanese
+- ⛏️A Modded Minecrafter
+- 📖Student
+
+❤️Like: JavaScript, C
+⭐Learned: Python, IchigojamBasic, Scratch
+🌱Want to learn: TypeScript, Java, Kotlin
 
 <!--
 **Meatwo310/Meatwo310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
