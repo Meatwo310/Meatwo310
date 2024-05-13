@@ -1,24 +1,6 @@
-## 👋
-- 🇯🇵Japanese
-- ⛏️A Modded Minecrafter
-- 📖A Student
-
-## 💻
-- ❤️Like: JavaScript, C  
-- ⭐Learned: Python, IchigojamBasic, Scratch  
-- 🌱Want to learn: TypeScript, Java, Kotlin  
-
-<!--
-**Meatwo310/Meatwo310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> あなたはシステム管理者から通常の講習を受けたはずです。  
+> これは通常、以下の3点に要約されます:
+>   
+> #1) 他人のプライバシーを尊重すること。  
+> #2) タイプする前に考えること。  
+> #3) 大いなる力には大いなる責任が伴うこと。  
