@@ -1,5 +1,7 @@
 # Refined Storage → Applied Energistics 2 移行ガイド
 
+WIP
+
 ## RS: 最小構成
 Refined Storageでアイテムの出し入れができる倉庫を作成するためには、以下のアイテムが必要です:
 
